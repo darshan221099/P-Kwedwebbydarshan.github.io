@@ -1,0 +1,21 @@
+.btn-1:hover,
+.btn-1,
+.rsvp-section,
+.story-section .story-item i,
+.couple-section .couple i.fa-heart,
+.btn-1,
+.people-section .filter-btn,
+.people-section .filter-btn.active,
+.event-section .event-item-inner:before,
+.event-section .event-item-inner span,
+.story-section .story-text h3,
+.couple-section .couple h3,
+
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+	color: #fb839e;
+}
+.event-section,
+.couple-section .couple img{
+	border-color: #fb839e;
+}
